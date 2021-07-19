@@ -26,7 +26,7 @@ public class Disease extends AppCompatActivity {
         webView.setWebViewClient(webViewClient);
         WebSettings webSettings = webView.getSettings();
         webSettings.setJavaScriptEnabled(true);
-        webView.loadUrl("https://www.google.com");
+        webView.loadUrl("https://www.amazon.com");
     }
 
     //this method requires to use back button if want to go to prev page
